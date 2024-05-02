@@ -10,11 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+High+school+student;Web+Dev+%3C3"></a>
